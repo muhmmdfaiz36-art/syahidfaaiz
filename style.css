@@ -110,3 +110,29 @@ html{
   }
 
 }
+/* HEADER */
+header{
+  background:#111827;
+  color:white;
+  text-align:center;
+  padding:30px;
+  position:relative;
+}
+
+/* TEMPAT LOGO */
+.logo-box{
+  position:absolute;
+  top:15px;
+  right:20px;
+
+  width:80px;
+  height:80px;
+
+  border:2px dashed white;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  font-size:18px;
+  color:white;
+}
